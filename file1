@@ -1,0 +1,4 @@
+#!/bin/bash
+A=45
+B=76
+echo "TOTAL = `expr $A + $B `"
